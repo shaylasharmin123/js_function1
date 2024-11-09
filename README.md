@@ -1,2 +1,2 @@
 # js_function1
-Here is the code of ja function.
+https://shaylasharmin123.github.io/js_function1/
